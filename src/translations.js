@@ -115,6 +115,14 @@ export const translations = {
     performancePct: "Perf %",
     custom: "Custom",
     goalPeriodName: "Goal Name",
+    dataManagement: "Data Management",
+    exportData: "Export Data",
+    importData: "Import Data",
+    importWarning: "Warning: This will replace all current data. Continue?",
+    importSuccess: "Data imported successfully!",
+    importError: "Error importing data. Please check the file format.",
+    exportDesc: "Download a backup of your data as a JSON file.",
+    importDesc: "Restore your data from a previously exported JSON file.",
   },
   es: {
     dashboard: "Tablero",
@@ -232,5 +240,13 @@ export const translations = {
     performancePct: "Rend %",
     custom: "Personalizado",
     goalPeriodName: "Nombre de la Meta",
+    dataManagement: "Gestión de Datos",
+    exportData: "Exportar Datos",
+    importData: "Importar Datos",
+    importWarning: "Advertencia: Esto reemplazará todos los datos actuales. ¿Continuar?",
+    importSuccess: "¡Datos importados con éxito!",
+    importError: "Error al importar los datos. Revisa el formato del archivo.",
+    exportDesc: "Descarga una copia de seguridad de tus datos en un archivo JSON.",
+    importDesc: "Restaura tus datos desde un archivo JSON exportado previamente.",
   }
 };

@@ -159,3 +159,24 @@ export async function seedDatabase() {
     await db.metrics.bulkAdd(metrics);
   }
 }
+
+export async function exportToJSON() {
+  const exportData = {};
+  for (const table of db.tables) {
+    exportData[table.name] = await table.toArray();
+  }
+  return JSON.stringify(exportData, null, 2);
+}
+
+export async function importFromJSON(jsonString) {
+  const importData = JSON.parse(jsonString);
+  
+  return await db.transaction('rw', db.tables, async () => {
+    for (const table of db.tables) {
+      if (importData[table.name]) {
+        await table.clear();
+        await table.bulkAdd(importData[table.name]);
+      }
+    }
+  });
+}
