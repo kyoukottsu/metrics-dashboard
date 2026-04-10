@@ -1,0 +1,2060 @@
+{
+  "goals": [
+    {
+      "name": "Redondeo",
+      "color": "#4bec5e",
+      "unitType": "2",
+      "unit": "",
+      "method": "manual",
+      "id": 11,
+      "behavior": "cumulative",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000
+    },
+    {
+      "name": "Venta Lealtad",
+      "color": "#63d6f2",
+      "unitType": "1",
+      "unit": "",
+      "method": "manual",
+      "behavior": "snapshot",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "id": 13
+    },
+    {
+      "name": "Spin",
+      "color": "#6366f1",
+      "unitType": "units",
+      "unit": "",
+      "method": "manual",
+      "behavior": "cumulative",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "id": 14
+    },
+    {
+      "name": "Merma Acumulada",
+      "color": "#e1f264",
+      "unitType": "2",
+      "unit": "",
+      "method": "manual",
+      "behavior": "cumulative",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "id": 15
+    },
+    {
+      "name": "RPD",
+      "color": "#f264b7",
+      "unitType": "1",
+      "unit": "",
+      "method": "manual",
+      "behavior": "snapshot",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "id": 16
+    },
+    {
+      "name": "Conteos",
+      "color": "#e86711",
+      "unitType": "units",
+      "unit": "",
+      "method": "manual",
+      "behavior": "cumulative",
+      "startDate": 1775001600000,
+      "endDate": 1777507200000,
+      "id": 17
+    }
+  ],
+  "metrics": [
+    {
+      "goalId": 11,
+      "value": 75.63,
+      "timestamp": 1772388000000,
+      "note": "",
+      "id": 177
+    },
+    {
+      "goalId": 11,
+      "value": 71.27,
+      "timestamp": 1772474400000,
+      "note": "",
+      "id": 178
+    },
+    {
+      "goalId": 11,
+      "value": 62.89,
+      "timestamp": 1772560800000,
+      "note": "",
+      "id": 179
+    },
+    {
+      "goalId": 11,
+      "value": 46.05,
+      "timestamp": 1772647200000,
+      "note": "",
+      "id": 180
+    },
+    {
+      "goalId": 11,
+      "value": 88.57,
+      "timestamp": 1772733600000,
+      "note": "",
+      "id": 181
+    },
+    {
+      "goalId": 11,
+      "value": 84.66,
+      "timestamp": 1772820000000,
+      "note": "",
+      "id": 182
+    },
+    {
+      "goalId": 11,
+      "value": 74.37,
+      "timestamp": 1772906400000,
+      "note": "",
+      "id": 183
+    },
+    {
+      "goalId": 11,
+      "value": 63.73,
+      "timestamp": 1772989200000,
+      "note": "",
+      "id": 184
+    },
+    {
+      "goalId": 11,
+      "value": 75.89,
+      "timestamp": 1773075600000,
+      "note": "",
+      "id": 185
+    },
+    {
+      "goalId": 11,
+      "value": 65.54,
+      "timestamp": 1773162000000,
+      "note": "",
+      "id": 186
+    },
+    {
+      "goalId": 11,
+      "value": 56.31,
+      "timestamp": 1773248400000,
+      "note": "",
+      "id": 187
+    },
+    {
+      "goalId": 11,
+      "value": 71.63,
+      "timestamp": 1773334800000,
+      "note": "",
+      "id": 188
+    },
+    {
+      "goalId": 11,
+      "value": 75.68,
+      "timestamp": 1773421200000,
+      "note": "",
+      "id": 189
+    },
+    {
+      "goalId": 11,
+      "value": 71.8,
+      "timestamp": 1773507600000,
+      "note": "",
+      "id": 190
+    },
+    {
+      "goalId": 11,
+      "value": 86.22,
+      "timestamp": 1773594000000,
+      "note": "",
+      "id": 191
+    },
+    {
+      "goalId": 11,
+      "value": 95.43,
+      "timestamp": 1773680400000,
+      "note": "",
+      "id": 192
+    },
+    {
+      "goalId": 11,
+      "value": 62.44,
+      "timestamp": 1773766800000,
+      "note": "",
+      "id": 193
+    },
+    {
+      "goalId": 11,
+      "value": 65.81,
+      "timestamp": 1773853200000,
+      "note": "",
+      "id": 194
+    },
+    {
+      "goalId": 11,
+      "value": 69.43,
+      "timestamp": 1773939600000,
+      "note": "",
+      "id": 195
+    },
+    {
+      "goalId": 11,
+      "value": 76.53,
+      "timestamp": 1774026000000,
+      "note": "",
+      "id": 196
+    },
+    {
+      "goalId": 11,
+      "value": 83.71,
+      "timestamp": 1774112400000,
+      "note": "",
+      "id": 197
+    },
+    {
+      "goalId": 11,
+      "value": 68.84,
+      "timestamp": 1774198800000,
+      "note": "",
+      "id": 198
+    },
+    {
+      "goalId": 11,
+      "value": 52.37,
+      "timestamp": 1774285200000,
+      "note": "",
+      "id": 199
+    },
+    {
+      "goalId": 11,
+      "value": 63.58,
+      "timestamp": 1774371600000,
+      "note": "",
+      "id": 201
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1774455663146,
+      "note": "",
+      "id": 203
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1772388000000,
+      "note": "",
+      "id": 204
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1772647200000,
+      "note": "",
+      "id": 205
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1772733600000,
+      "note": "",
+      "id": 206
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1772820000000,
+      "note": "",
+      "id": 207
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1772906400000,
+      "note": "",
+      "id": 208
+    },
+    {
+      "goalId": 14,
+      "value": 2,
+      "timestamp": 1773334800000,
+      "note": "",
+      "id": 209
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1773507600000,
+      "note": "",
+      "id": 210
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1773680400000,
+      "note": "",
+      "id": 211
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1773939600000,
+      "note": "",
+      "id": 212
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1774026000000,
+      "note": "",
+      "id": 213
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1774112400000,
+      "note": "",
+      "id": 214
+    },
+    {
+      "goalId": 15,
+      "value": 371,
+      "timestamp": 1774285200000,
+      "note": "",
+      "id": 215
+    },
+    {
+      "goalId": 15,
+      "value": 1805.43,
+      "timestamp": 1772474400000,
+      "note": "",
+      "id": 216
+    },
+    {
+      "goalId": 15,
+      "value": 1673,
+      "timestamp": 1772647200000,
+      "note": "",
+      "id": 217
+    },
+    {
+      "goalId": 15,
+      "value": 1316.66,
+      "timestamp": 1773680400000,
+      "note": "",
+      "id": 218
+    },
+    {
+      "goalId": 13,
+      "value": 80.23,
+      "timestamp": 1774198800000,
+      "note": "",
+      "employees": [
+        {
+          "name": "JUANITA MEDRANO TORRES",
+          "value": 57.39
+        },
+        {
+          "name": "ROSA ISELA LOPEZ CRUZ",
+          "value": 86.65
+        },
+        {
+          "name": "BRENDA XOCHITL VILLA BERNABE",
+          "value": 96.32
+        },
+        {
+          "name": "GRISELDA MENDEZ HERNANDEZ",
+          "value": 61.85
+        },
+        {
+          "name": "YOSSELIN YAHAIRA DIAZ HERNANDEZ",
+          "value": 82.73
+        },
+        {
+          "name": "GALDINO SAN JUAN ESCAMILLA",
+          "value": 90.28
+        }
+      ],
+      "id": 219
+    },
+    {
+      "goalId": 13,
+      "value": 79.93,
+      "timestamp": 1774112400000,
+      "note": "",
+      "employees": [
+        {
+          "name": "JUANITA MEDRANO TORRES",
+          "value": 56.99
+        },
+        {
+          "name": "ROSA ISELA LOPEZ CRUZ",
+          "value": 86.95
+        },
+        {
+          "name": "BRENDA XOCHITL VILLA BERNABE",
+          "value": 96.26
+        },
+        {
+          "name": "GRISELDA MENDEZ HERNANDEZ",
+          "value": 61.85
+        },
+        {
+          "name": "YOSSELIN YAHAIRA DIAZ HERNANDEZ",
+          "value": 83.34
+        },
+        {
+          "name": "GALDINO SAN JUAN ESCAMILLA",
+          "value": 89.97
+        }
+      ],
+      "id": 220
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1774371600000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 221
+    },
+    {
+      "goalId": 11,
+      "value": 67.2,
+      "timestamp": 1774458000000,
+      "note": "",
+      "id": 222
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1772388000000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 223
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1772560800000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 225
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1772647200000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 226
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1772474400000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 228
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1772733600000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 0
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 229
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1772820000000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 230
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1772906400000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 231
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1772989200000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 232
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773075600000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 233
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773162000000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 234
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773248400000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 235
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773334800000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 236
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773421200000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 237
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773507600000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 238
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773594000000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 239
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773680400000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 240
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773766800000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 241
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773853200000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 242
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1773939600000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 95.65
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 243
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1774026000000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 96.7
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 244
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1774112400000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 245
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1774198800000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100
+        }
+      ],
+      "id": 246
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1774285200000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 247
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1774458000000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 0
+        }
+      ],
+      "id": 249
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1774544400000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100,
+          "result": 0
+        },
+        {
+          "name": "Turno 2",
+          "value": 99.7,
+          "result": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100,
+          "result": 0
+        }
+      ],
+      "id": 252
+    },
+    {
+      "goalId": 11,
+      "value": 69.79,
+      "timestamp": 1774544400000,
+      "note": "",
+      "id": 253
+    },
+    {
+      "goalId": 14,
+      "value": 2,
+      "timestamp": 1774544400000,
+      "note": "",
+      "id": 254
+    },
+    {
+      "goalId": 11,
+      "value": 73.44,
+      "timestamp": 1775062800000,
+      "note": "",
+      "id": 255
+    },
+    {
+      "goalId": 11,
+      "value": 75.22,
+      "timestamp": 1774630800000,
+      "note": "",
+      "id": 256
+    },
+    {
+      "goalId": 11,
+      "value": 79.42,
+      "timestamp": 1774717200000,
+      "note": "",
+      "id": 257
+    },
+    {
+      "goalId": 11,
+      "value": 81.38,
+      "timestamp": 1774803600000,
+      "note": "",
+      "id": 258
+    },
+    {
+      "goalId": 11,
+      "value": 69.8,
+      "timestamp": 1774890000000,
+      "note": "",
+      "id": 259
+    },
+    {
+      "goalId": 11,
+      "value": 76.07,
+      "timestamp": 1774976400000,
+      "note": "",
+      "id": 260
+    },
+    {
+      "goalId": 14,
+      "value": 2,
+      "timestamp": 1774717200000,
+      "note": "",
+      "id": 261
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1774890000000,
+      "note": "",
+      "id": 262
+    },
+    {
+      "goalId": 14,
+      "value": 1,
+      "timestamp": 1775062800000,
+      "note": "",
+      "id": 263
+    },
+    {
+      "goalId": 13,
+      "value": 74.85,
+      "timestamp": 1774803600000,
+      "note": "",
+      "employees": [
+        {
+          "name": "JUANITA MEDRANO TORRES",
+          "value": 53.79
+        },
+        {
+          "name": "ROSA ISELA LOPEZ CRUZ",
+          "value": 80.87
+        },
+        {
+          "name": "BRENDA XOCHITL VILLA BERNABE",
+          "value": 92.13
+        },
+        {
+          "name": "GRISELDA MENDEZ HERNANDEZ",
+          "value": 49.66
+        },
+        {
+          "name": "YOSSELIN YAHAIRA DIAZ HERNANDEZ",
+          "value": 76.57
+        },
+        {
+          "name": "GALDINO SAN JUAN ESCAMILLA",
+          "value": 82.87
+        }
+      ],
+      "id": 264
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1774803600000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100,
+          "result": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 99.76,
+          "result": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100,
+          "result": 0
+        }
+      ],
+      "id": 265
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "timestamp": 1775062800000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100,
+          "result": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 88.89,
+          "result": 88.89
+        },
+        {
+          "name": "Turno 3",
+          "value": 0,
+          "result": 0
+        }
+      ],
+      "id": 266
+    },
+    {
+      "goalId": 15,
+      "value": 378.19,
+      "timestamp": 1775144746031,
+      "note": "",
+      "id": 267
+    },
+    {
+      "goalId": 15,
+      "value": 1770.94,
+      "timestamp": 1775144760712,
+      "note": "",
+      "id": 268
+    },
+    {
+      "goalId": 11,
+      "value": 0,
+      "result": 92.28,
+      "timestamp": 1775149200000,
+      "note": "",
+      "id": 271
+    },
+    {
+      "goalId": 17,
+      "value": 0,
+      "result": 924,
+      "timestamp": 1774890000000,
+      "note": "",
+      "id": 272
+    },
+    {
+      "goalId": 17,
+      "value": 0,
+      "result": 557,
+      "timestamp": 1774976400000,
+      "note": "",
+      "id": 273
+    },
+    {
+      "goalId": 17,
+      "value": 0,
+      "result": 567,
+      "timestamp": 1775062800000,
+      "note": "",
+      "id": 274
+    },
+    {
+      "goalId": 17,
+      "value": 0,
+      "result": 1121,
+      "timestamp": 1775149200000,
+      "note": "",
+      "id": 275
+    },
+    {
+      "goalId": 11,
+      "value": 0,
+      "result": 79.9,
+      "timestamp": 1775235600000,
+      "note": "",
+      "id": 276
+    },
+    {
+      "goalId": 11,
+      "value": 0,
+      "result": 85.82,
+      "timestamp": 1775322000000,
+      "note": "",
+      "id": 277
+    },
+    {
+      "goalId": 11,
+      "value": 0,
+      "result": 64.13,
+      "timestamp": 1775408400000,
+      "note": "",
+      "id": 278
+    },
+    {
+      "goalId": 13,
+      "value": 0,
+      "result": 71.42,
+      "timestamp": 1775322000000,
+      "note": "",
+      "employees": [
+        {
+          "name": "JUANITA MEDRANO TORRES",
+          "value": 60.92
+        },
+        {
+          "name": "ROSA ISELA LOPEZ CRUZ",
+          "value": 80.1
+        },
+        {
+          "name": "BRENDA XOCHITL VILLA BERNABE",
+          "value": 89.77
+        },
+        {
+          "name": "GRISELDA MENDEZ HERNANDEZ",
+          "value": 44.94
+        },
+        {
+          "name": "YOSSELIN YAHAIRA DIAZ HERNANDEZ",
+          "value": 76.43
+        },
+        {
+          "name": "GALDINO SAN JUAN ESCAMILLA",
+          "value": 86.18
+        }
+      ],
+      "id": 279
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "result": 0,
+      "timestamp": 1775149200000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100,
+          "result": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 97.41,
+          "result": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100,
+          "result": 100
+        }
+      ],
+      "id": 280
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "result": 0,
+      "timestamp": 1775235600000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100,
+          "result": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 97.41,
+          "result": 96.97
+        },
+        {
+          "name": "Turno 3",
+          "value": 100,
+          "result": 100
+        }
+      ],
+      "id": 281
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "result": 0,
+      "timestamp": 1775322000000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100,
+          "result": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 97.41,
+          "result": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100,
+          "result": 100
+        }
+      ],
+      "id": 282
+    },
+    {
+      "goalId": 16,
+      "value": 0,
+      "result": 0,
+      "timestamp": 1775408400000,
+      "note": "",
+      "shifts": [
+        {
+          "name": "Turno 1",
+          "value": 100,
+          "result": 100
+        },
+        {
+          "name": "Turno 2",
+          "value": 97.41,
+          "result": 100
+        },
+        {
+          "name": "Turno 3",
+          "value": 100,
+          "result": 0
+        }
+      ],
+      "id": 283
+    },
+    {
+      "goalId": 17,
+      "value": 0,
+      "result": 1140,
+      "timestamp": 1775235600000,
+      "note": "",
+      "id": 284
+    },
+    {
+      "goalId": 17,
+      "value": 0,
+      "result": 370,
+      "timestamp": 1775322000000,
+      "note": "",
+      "id": 285
+    },
+    {
+      "goalId": 17,
+      "value": 0,
+      "result": 634,
+      "timestamp": 1775408400000,
+      "note": "",
+      "id": 286
+    }
+  ],
+  "settings": [
+    {
+      "key": "language",
+      "value": "es"
+    },
+    {
+      "key": "theme",
+      "value": "dark"
+    }
+  ],
+  "inventory": [
+    {
+      "templateName": "Tecnologia",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322096979,
+      "id": 4
+    },
+    {
+      "templateName": "SalchiKoxka",
+      "type": "excess",
+      "value": 21,
+      "timestamp": 1774322123294,
+      "id": 5
+    },
+    {
+      "templateName": "Huevo",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322134277,
+      "id": 6
+    },
+    {
+      "templateName": "Fruta y Verdura",
+      "type": "shortage",
+      "value": 500,
+      "timestamp": 1774322155996,
+      "id": 7
+    },
+    {
+      "templateName": "Encendedores",
+      "type": "excess",
+      "value": 486,
+      "timestamp": 1774322190912,
+      "id": 8
+    },
+    {
+      "templateName": "Especias",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322205030,
+      "id": 9
+    },
+    {
+      "templateName": "Articulos promocionales",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322223871,
+      "id": 10
+    },
+    {
+      "templateName": "Cerveza/BG",
+      "type": "shortage",
+      "value": 1910,
+      "timestamp": 1774322246709,
+      "id": 11
+    },
+    {
+      "templateName": "Cigarros",
+      "type": "excess",
+      "value": 47,
+      "timestamp": 1774322270425,
+      "id": 12
+    },
+    {
+      "templateName": "Cerial/Pan/Leche",
+      "type": "excess",
+      "value": 203,
+      "timestamp": 1774322302513,
+      "id": 13
+    },
+    {
+      "templateName": "Termos",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322321755,
+      "id": 14
+    },
+    {
+      "templateName": "Baterias",
+      "type": "excess",
+      "value": 189,
+      "timestamp": 1774322343206,
+      "id": 15
+    },
+    {
+      "templateName": "Automotriz",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322363861,
+      "id": 16
+    },
+    {
+      "templateName": "Alimento Seco",
+      "type": "excess",
+      "value": 18,
+      "timestamp": 1774322378336,
+      "id": 17
+    },
+    {
+      "templateName": "Bolsas Ecologicas",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322390525,
+      "id": 18
+    },
+    {
+      "templateName": "Barajas",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322401948,
+      "id": 19
+    },
+    {
+      "templateName": "Bebes",
+      "type": "excess",
+      "value": 83,
+      "timestamp": 1774322428440,
+      "id": 20
+    },
+    {
+      "templateName": "Carbon/Hielera",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322443449,
+      "id": 21
+    },
+    {
+      "templateName": "Tarjetas",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322463966,
+      "id": 22
+    },
+    {
+      "templateName": "Refrescos",
+      "type": "shortage",
+      "value": 697,
+      "timestamp": 1774322488762,
+      "id": 23
+    },
+    {
+      "templateName": "Farmacia",
+      "type": "shortage",
+      "value": 112,
+      "timestamp": 1774322518601,
+      "id": 24
+    },
+    {
+      "templateName": "Jugos/Alternativos",
+      "type": "excess",
+      "value": 836,
+      "timestamp": 1774322538767,
+      "id": 25
+    },
+    {
+      "templateName": "Aguas",
+      "type": "shortage",
+      "value": 288,
+      "timestamp": 1774322569159,
+      "id": 26
+    },
+    {
+      "templateName": "Juguetes",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322583989,
+      "id": 27
+    },
+    {
+      "templateName": "Nieves La Higienica",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322596906,
+      "id": 28
+    },
+    {
+      "templateName": "Canastillas",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322608089,
+      "id": 29
+    },
+    {
+      "templateName": "Zukos",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322623231,
+      "id": 30
+    },
+    {
+      "templateName": "Hielo",
+      "type": "shortage",
+      "value": 262,
+      "timestamp": 1774322640160,
+      "id": 31
+    },
+    {
+      "templateName": "Agua Garrafon y Plasticos",
+      "type": "shortage",
+      "value": 223,
+      "timestamp": 1774322669913,
+      "id": 32
+    },
+    {
+      "templateName": "Pollitos, Carnes, Mariscos",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322679406,
+      "id": 33
+    },
+    {
+      "templateName": "Pan Horneado",
+      "type": "shortage",
+      "value": 200,
+      "timestamp": 1774322698274,
+      "id": 34
+    },
+    {
+      "templateName": "Celulares",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322710444,
+      "id": 35
+    },
+    {
+      "templateName": "Jugos/Alternativos",
+      "type": "shortage",
+      "value": 38,
+      "timestamp": 1774322726503,
+      "id": 36
+    },
+    {
+      "templateName": "Vinos",
+      "type": "shortage",
+      "value": 22,
+      "timestamp": 1774322749175,
+      "id": 37
+    },
+    {
+      "templateName": "Vasos",
+      "type": "excess",
+      "value": 148,
+      "timestamp": 1774322767032,
+      "id": 38
+    },
+    {
+      "templateName": "Vapes",
+      "type": "exact",
+      "value": 0,
+      "timestamp": 1774322779478,
+      "id": 39
+    },
+    {
+      "templateName": "fiestas",
+      "type": "excess",
+      "value": 169,
+      "timestamp": 1774322806661,
+      "id": 40
+    },
+    {
+      "templateName": "Koxka",
+      "type": "excess",
+      "value": 351,
+      "timestamp": 1774322840505,
+      "id": 41
+    },
+    {
+      "templateName": "Dulces",
+      "type": "shortage",
+      "value": 511,
+      "timestamp": 1774322867818,
+      "id": 42
+    },
+    {
+      "templateName": "Botanas",
+      "type": "shortage",
+      "value": 130,
+      "timestamp": 1775140865600,
+      "id": 43
+    },
+    {
+      "templateName": "Paletero Nestle",
+      "type": "shortage",
+      "value": 485,
+      "timestamp": 1775151883585,
+      "id": 44
+    },
+    {
+      "templateName": "Paletero Holanda",
+      "type": "excess",
+      "value": 168,
+      "timestamp": 1775151914683,
+      "id": 45
+    },
+    {
+      "templateName": "Abarrotes",
+      "type": "shortage",
+      "value": 66,
+      "timestamp": 1775156093697,
+      "id": 46
+    },
+    {
+      "templateName": "Mascotas",
+      "type": "shortage",
+      "value": 39,
+      "timestamp": 1775251780175,
+      "id": 47
+    },
+    {
+      "templateName": "Sopas y Palomitas",
+      "type": "shortage",
+      "value": 130,
+      "timestamp": 1775251802893,
+      "id": 48
+    }
+  ],
+  "resets": [
+    {
+      "timestamp": 1774229475871,
+      "id": 1
+    }
+  ],
+  "inventoryTemplates": [
+    {
+      "name": "Alimento Seco",
+      "id": 2
+    },
+    {
+      "name": "Aguas",
+      "id": 3
+    },
+    {
+      "name": "Articulos promocionales",
+      "id": 4
+    },
+    {
+      "name": "Automotriz",
+      "id": 5
+    },
+    {
+      "name": "Barajas",
+      "id": 6
+    },
+    {
+      "name": "Baterias",
+      "id": 7
+    },
+    {
+      "name": "Bebes",
+      "id": 8
+    },
+    {
+      "name": "Bolsas Ecologicas",
+      "id": 9
+    },
+    {
+      "name": "Botanas",
+      "id": 10
+    },
+    {
+      "name": "Cacahuates",
+      "id": 11
+    },
+    {
+      "name": "Canastillas",
+      "id": 12
+    },
+    {
+      "name": "Carbon/Hielera",
+      "id": 13
+    },
+    {
+      "name": "Celulares",
+      "id": 14
+    },
+    {
+      "name": "Cerial/Pan/Leche",
+      "id": 15
+    },
+    {
+      "name": "Cerveza/BG",
+      "id": 16
+    },
+    {
+      "name": "Cigarros",
+      "id": 17
+    },
+    {
+      "name": "Dulces",
+      "id": 18
+    },
+    {
+      "name": "Encendedores",
+      "id": 19
+    },
+    {
+      "name": "Retornables TKT",
+      "id": 20
+    },
+    {
+      "name": "Retornables Coca",
+      "id": 21
+    },
+    {
+      "name": "Retornables Pepsi",
+      "id": 22
+    },
+    {
+      "name": "Retornables Corona",
+      "id": 23
+    },
+    {
+      "name": "Especias",
+      "id": 24
+    },
+    {
+      "name": "Farmacia",
+      "id": 25
+    },
+    {
+      "name": "Fiesta",
+      "id": 26
+    },
+    {
+      "name": "Fruta y Verdura",
+      "id": 27
+    },
+    {
+      "name": "Galletas/Reposteria",
+      "id": 28
+    },
+    {
+      "name": "Agua Garrafon y Plasticos",
+      "id": 29
+    },
+    {
+      "name": "Hielo",
+      "id": 30
+    },
+    {
+      "name": "Higiene/Hogar",
+      "id": 31
+    },
+    {
+      "name": "Huevo",
+      "id": 32
+    },
+    {
+      "name": "Insumos Tienda",
+      "id": 33
+    },
+    {
+      "name": "Insumos Cafe",
+      "id": 34
+    },
+    {
+      "name": "Jugos/Alternativos",
+      "id": 35
+    },
+    {
+      "name": "Juguetes",
+      "id": 36
+    },
+    {
+      "name": "Koxka",
+      "id": 37
+    },
+    {
+      "name": "Mascotas",
+      "id": 38
+    },
+    {
+      "name": "Nieves La Higienica",
+      "id": 39
+    },
+    {
+      "name": "Paletero Holanda",
+      "id": 40
+    },
+    {
+      "name": "Paletero Nestle",
+      "id": 41
+    },
+    {
+      "name": "Pan Horneado",
+      "id": 42
+    },
+    {
+      "name": "Pollitos, Carnes, Mariscos",
+      "id": 43
+    },
+    {
+      "name": "Refrescos",
+      "id": 44
+    },
+    {
+      "name": "SalchiKoxka",
+      "id": 45
+    },
+    {
+      "name": "Sopas y Palomitas",
+      "id": 46
+    },
+    {
+      "name": "Tarjetas",
+      "id": 47
+    },
+    {
+      "name": "Tecnologia",
+      "id": 48
+    },
+    {
+      "name": "Termos",
+      "id": 49
+    },
+    {
+      "name": "Vapes",
+      "id": 50
+    },
+    {
+      "name": "Vasos",
+      "id": 51
+    },
+    {
+      "name": "Vinos",
+      "id": 52
+    },
+    {
+      "name": "Zukos",
+      "id": 53
+    },
+    {
+      "name": "Abarrotes",
+      "id": 54
+    }
+  ],
+  "goalTargets": [
+    {
+      "goalId": 14,
+      "period": "monthly",
+      "target": 30,
+      "id": 22,
+      "color": "#6366f1",
+      "behavior": "cumulative",
+      "unit": "",
+      "unitType": "units",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "name": "Spin"
+    },
+    {
+      "goalId": 13,
+      "period": "monthly",
+      "target": 72.07,
+      "id": 23,
+      "color": "#63d6f2",
+      "behavior": "snapshot",
+      "unit": "",
+      "unitType": "1",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "name": "Venta Lealtad"
+    },
+    {
+      "goalId": 15,
+      "period": "monthly",
+      "target": 0,
+      "id": 25,
+      "color": "#e1f264",
+      "behavior": "cumulative",
+      "unit": "",
+      "unitType": "2",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "name": "Merma Acumulada"
+    },
+    {
+      "goalId": 16,
+      "period": "yesterday",
+      "target": 100,
+      "id": 27,
+      "color": "#f264b7",
+      "behavior": "snapshot",
+      "unit": "",
+      "unitType": "1",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "name": "RPD"
+    },
+    {
+      "goalId": 17,
+      "period": "weekly",
+      "target": 3500,
+      "name": "Conteos",
+      "unitType": "units",
+      "unit": "",
+      "behavior": "cumulative",
+      "color": "#e86711",
+      "startDate": 1775001600000,
+      "endDate": 1777507200000,
+      "id": 43
+    },
+    {
+      "goalId": 17,
+      "period": "weekly",
+      "target": 64,
+      "name": "Catalago",
+      "unitType": "1",
+      "unit": "",
+      "behavior": "snapshot",
+      "color": "#e86711",
+      "startDate": 1775001600000,
+      "endDate": 1777507200000,
+      "id": 44
+    },
+    {
+      "goalId": 11,
+      "period": "monthly",
+      "target": 720,
+      "name": "Redondeo",
+      "unitType": "2",
+      "unit": "",
+      "behavior": "cumulative",
+      "color": "#4bec5e",
+      "startDate": 1772323200000,
+      "endDate": 1774915200000,
+      "id": 49
+    },
+    {
+      "goalId": 11,
+      "period": "yesterday",
+      "target": 24,
+      "name": "Redondeo",
+      "unitType": "2",
+      "unit": "",
+      "behavior": "cumulative",
+      "color": "#64f27c",
+      "startDate": null,
+      "endDate": null,
+      "id": 50
+    }
+  ],
+  "goalCycles": [],
+  "unitTypes": [
+    {
+      "name": "Porcentaje",
+      "symbol": "%",
+      "id": 1
+    },
+    {
+      "name": "Dinero",
+      "symbol": "$",
+      "id": 2
+    },
+    {
+      "name": "Piezas",
+      "symbol": "Pz",
+      "id": 3
+    },
+    {
+      "name": "Lealtad",
+      "symbol": ":)",
+      "id": 4
+    },
+    {
+      "id": "persons",
+      "label": "unitPersons",
+      "symbol": ""
+    },
+    {
+      "id": "surveys",
+      "label": "unitSurveys",
+      "symbol": ""
+    },
+    {
+      "id": "units",
+      "label": "unitUnits",
+      "symbol": "uds",
+      "name": "Unidades"
+    }
+  ]
+}
